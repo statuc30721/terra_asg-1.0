@@ -1,1 +1,1 @@
-# terra_asg-1.0
+# Learning terraform, ASG, LB and AMI templates.
